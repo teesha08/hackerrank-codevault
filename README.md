@@ -1,5 +1,3 @@
-# hackerrank-codevault
-
 # HackerRank Solutions Repository
 
 Welcome to my HackerRank solutions repository! 
